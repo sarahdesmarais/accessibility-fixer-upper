@@ -67,6 +67,10 @@ td {
   background-color: #eeebe9;
 }
 
+.news a {
+  text-decoration: underline;
+}
+
 .contact {
   background-color: #dfdcda;
 }
@@ -85,6 +89,14 @@ td {
 .footer {
   background-color: #113c00;
   color: #fff;
+}
+
+.skip-links a {
+  text-decoration: underline;
+}
+
+.posts a {
+  color: #568c36;
 }
 
 @media only screen and (min-width: 35em) {
